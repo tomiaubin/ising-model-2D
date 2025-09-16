@@ -23,6 +23,16 @@ interacciones magnéticas entre espines, y permite estudiar fenómenos de
 - Matplotlib
 - Jupyter Notebook / Google Colab
 
+## Ejemplo de resultados
+
+Magnitudes físicas en función de la temperatura:
+
+![Magnetization](imgs/magnitudes_ising.png)
+
+Configuración de espines a baja temperatura:
+
+![Spins](imgs/espines_ising.png)
+
 
 ## Autor
 Tomás Aubin
