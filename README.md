@@ -33,6 +33,7 @@ Configuración de espines a baja temperatura:
 
 ![Spins](imgs/espines_ising.png)
 
+Para una versión detallada, con más contenido técnico visitar: https://colab.research.google.com/drive/10q9kcIyD0--x8-ugW1H3E3Dcz7e5cI3A?usp=sharing
 
 ## Autor
 Tomás Aubin
